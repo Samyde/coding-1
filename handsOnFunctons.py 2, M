@@ -1,0 +1,30 @@
+
+
+# This is a functions defionitions;
+# it tells the computers
+
+
+# data= just means data types
+
+# () curly brackets- these are for passing in
+# data.
+
+# when the brackets are in a functions
+# definiton, they are called the parameters
+#parameters= placeholder
+
+def customNameFunction(name):
+    print('new nickname is : super '+ name)
+    
+# when we went to use a function
+# we call it by writing it's name
+# when we pass data inside of the brackets
+# it is now called an argument
+#argument= requires facts/ real data.
+customNameFunction('Samyde')
+
+# Lesson on conditional statements
+# conditional statements involve the
+#'IF and 'ELESE' keywords.
+# IF were looking for a condition we can 
+# run or code, otherwise or ELESE
