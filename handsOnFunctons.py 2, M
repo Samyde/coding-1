@@ -27,4 +27,17 @@ customNameFunction('Samyde')
 # conditional statements involve the
 #'IF and 'ELESE' keywords.
 # IF were looking for a condition we can 
-# run or code, otherwise or ELESE
+# run or code, otherwise or ELESE 
+ 
+  
+   # Activity
+   # 1. Create a function that will convert a number
+   # that is passed into the functions parameters and 
+   # convert the number into minutes. for example, a
+   # value of 2 should return 120 minutes. a value
+   # of 3 should return 180 minutes, etc.
+
+   function hoursToMinutes(hour):
+            print (hour * 60)
+
+hoursToMinutes(2)
