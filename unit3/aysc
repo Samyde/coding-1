@@ -1,0 +1,59 @@
+// 1.  I Created a function that will accept a word in the
+// function parameter
+
+// and return the word in reverse order. For example, the word
+
+// 'pet' should return as 'tep', the word 'book' should return as
+//'koob', etc. HINT- There is a built-in function that
+
+// you can use to accomplish this. Please use W3 schools to
+// research what function you'll need to use.
+
+function reveseWorld(word) {
+  var originalStr = word;
+  var reversedStr = "";
+  for (i = 0; i < originalStr.length; i++) {
+    reversedStr = originalStr.charAt(i) + reversedStr;
+  }
+  console.log("Reversed string: " + reversedStr);
+}
+reveseWorld('Ian Kimble')
+const word = "Banana"
+const newWord = word.split("")
+const reversedWord= newWord.reverse()
+console.log(reversedWord)
+// Reverse the Array
+// const fruits2 = fruits.reverse();
+
+10 and under should pay $5.00
+16 and up should pay $10.00
+20 an up should pay $15.00
+65 and up should pay 5.00
+
+superShopper should recieve a 10% discount on their items
+megaShopper should recieve a 15% discount on their items
+ultraShopper should receive a 20% discount on their items
+
+# Functions are sets of instructions
+# that inform the computer on what to do
+# with data. 
+# function definition
+def welcomeMsg():
+    # step 1
+    print('welcome to coding class.')
+# function call
+welcomeMsg()
+# Conditional Statements use the if/ else keywords
+# to help us make multiple decisions and outcomes 
+# based on data. 
+def mealTime(time):   
+    if time == 'before noon':
+        print('it is breakfast time.')
+    elif time =='noon':
+        print('it is lunch time.')
+    elif time == 'after noon':
+        print('it is dinner time. ')
+    else:
+        print('sorry, we do not recgonise your data.')
+
+
