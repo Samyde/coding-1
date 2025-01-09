@@ -33,13 +33,16 @@ If the warning is not honored the phone will be taken until the end of class. Re
 
 Good Luck
 
-1. What is an integer data type? Please write your response in a complete sentence as a string data type. A integer type is numbers.
+1. What is an integer data type? Please write your response in a complete sentence as a string data type. 
+A integer type is numbers.
 2. 
 3. In your own words, describe what an if/ else conditional statement is. Please write your response
    in a complete sentence as a string data type. A conditional is in between events and true or false.
-4. In your own words, describe what a function is. Please write your response in a complete sentence as a string data type. A function is a code of conduct and a task.
+4. In your own words, describe what a function is. Please write your response in a complete sentence as a string data type. 
+A function is a code of conduct and a task.
 
-5. What is a boolean data type? Please write your response in a complete sentence as a string data type. A boolean type is a data type that values true or false
+5. What is a boolean data type? Please write your response in a complete sentence as a string data type. 
+A boolean type is a data type that values true or false
 
 6. In your own words, describe the difference between a function parameter and a function argument.
 Please write your response in a complete sentence as a string data type. A function parameter refers to the variable names that are listed and a function argument is passed when it's diffirent.
@@ -55,21 +58,24 @@ Your function should take in a total sales amount as an argument and return the 
 
 Provided is an example of what your program should do:
 - If Ian's Development and Design company made $200,000.00, the state should deduct 7% from that total. 
-- Ian's Development and Design company should pay $14,000.00 in sales tax. 
+- Ian's Development and Design company should pay $14,000.00 in sales tax.  
+The program should do the opperater.
 
 9. You have been hired by Apple to help them fix their password system. They would   like you to create A
 function that will check how long a password is. Your program should be able to accept an integer password
 and also check if the password is more or less than 10 characters long. if the password is longer than 10 characters,
 your program should tell the user that their password is too long. If the password is under 4 characters the
 function should tell the user the password is too short. If the password meets the length criteria, there should
-be a message confirming to the user that their password was created successfully. that would be an function operator
+be a message confirming to the user that their password was created successfully. 
+that would be an function operator
 
 HINT - you will need to use a function that counts the number of characters in a string. I recommend looking this up on W3schools.
 
 10.  You have applied to several colleges in the state of PA and as your final project, you must create a function
    that will inform you on whether you will be admitted into the school based on the schools' reccomendation letter
    criteria. Your function should take in the name of the school along with whether it is TRUE or FALSE that you recieved 
-   a reccomendation letter from one of the staff members at Boys Latin. true
+   a reccomendation letter from one of the staff members at Boys Latin. 
+   true
 
 Provided are the schools you've applied to and their reccomendation letter criteria.
 
@@ -78,11 +84,11 @@ Provided are the schools you've applied to and their reccomendation letter crite
 - University of Pennsylvania - You must have 2 letter from BL to get in.
 - Cheyney University - You must have 1 letter of reccomendation from BL to get in.
 
-Provided are the letters of reccomendations you've recieved:
+Provided are the letters of reccomendations you've recieved: 
 
 - Both Mr. Parker and Mr. Kimble have given you a reccomendation letter to Cheyney University.
 - Mr. Kimble has given you a letter of reccomendation for Penn State, but Mr. Parker and Mr. Paris have not.
 - Mr. Paris has given you a letter of reccomendation to Temple University, but Mr. Parker and Mr. Kimble have not.
 - Mr. Parker has given you a letter of reccomnedation to The University of Pennsylvania, Mr. Kimble did not give you letter of reccomendation, But Mr. Paris did.
-
+ Thar would be 40 percent anf the ()
 Your function should return which schools you did or did not get into based on the information above.
