@@ -1,0 +1,16 @@
+# for loop is a type loop that goes through a 
+# a list and filters that values.
+
+fruits = ["apple", "banana", "cherry"]
+
+ for x in fruits:
+
+   print(x)
+  
+grades = [0,90,70,70,100,60]
+
+for x in grades:
+    if x = 70
+        print(x)
+        if grades,remove(x)
+        if x = 70
